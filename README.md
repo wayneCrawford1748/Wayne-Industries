@@ -1,2 +1,3 @@
 # Wayne-Industries
-First repository for Wayne
+This is the begining of a beautiful programming career.
+
